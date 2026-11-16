@@ -1,7 +1,7 @@
 {
-  "version": "1.6.2",
-  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.6.2.zip",
-  "note": "修复排期控件识别失败(恢复META_LABELS精确匹配+宽松兜底,等待10s→30s) + 内核文件纳入更新包(worker/src) + 间隔0=全部立即发 + 发布页排除授权号 + 预览40s→0.6s(标题两阶段) + 混合发布逐条轮转(每主页发不同剧) + 标题大小写归一 + 素材路径相对化(换盘可用) + 素材文件导出导入 + 素材体检清理 + 主页专属素材精确到每集",
-  "sizeMb": 7.0,
-  "builtAt": "2026-11-12T22:23:51.411903+00:00"
+  "version": "1.5.17",
+  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.5.17.zip",
+  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · Hubstudio适配器重写 + 指纹模块 + 素材分类 + 路径/发布引擎增强",
+  "sizeMb": 4.6,
+  "builtAt": "2026-11-16T21:56:04.215881+00:00"
 }
