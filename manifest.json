@@ -1,7 +1,7 @@
 {
-  "version": "1.5.17",
-  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.5.17.zip",
-  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · Hubstudio适配器重写 + 指纹模块 + 素材分类 + 路径/发布引擎增强",
-  "sizeMb": 4.6,
-  "builtAt": "2026-11-16T21:56:04.215881+00:00"
+  "version": "1.5.18",
+  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.5.18.zip",
+  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · envkit多后端 + mcp_ops + 批量切片 + 运行时配置 + 前端单目录化",
+  "sizeMb": 4.7,
+  "builtAt": "2026-11-26T03:17:43.117438+00:00"
 }
